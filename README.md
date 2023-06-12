@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andriw Aparecido</h1>
 <h3 align="center">A passionate frontend and backend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=driwking" alt="driwking" /></a> </p>
+
 
 - 🌱 I’m currently learning **laravel and materialize**
 
